@@ -1,0 +1,5 @@
+﻿'ConsoleApp1.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'ConsoleApp1.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Users\kanha\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe'. Symbols loaded.
+'ConsoleApp1.exe' (CLR v4.0.30319: ConsoleApp1.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'ConsoleApp1.exe' (CLR v4.0.30319: ConsoleApp1.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+The program '[6180] ConsoleApp1.exe' has exited with code -1073741510 (0xc000013a).
